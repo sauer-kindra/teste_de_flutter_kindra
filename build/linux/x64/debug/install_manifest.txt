@@ -1,0 +1,11 @@
+/home/raphael/Documents/kindra_test/build/linux/x64/debug/bundle/kindra_test
+/home/raphael/Documents/kindra_test/build/linux/x64/debug/bundle/data/icudtl.dat
+/home/raphael/Documents/kindra_test/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/home/raphael/Documents/kindra_test/build/linux/x64/debug/bundle/data/flutter_assets/version.json
+/home/raphael/Documents/kindra_test/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/home/raphael/Documents/kindra_test/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/raphael/Documents/kindra_test/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/home/raphael/Documents/kindra_test/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/home/raphael/Documents/kindra_test/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/home/raphael/Documents/kindra_test/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/home/raphael/Documents/kindra_test/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
