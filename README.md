@@ -24,4 +24,4 @@ O código é cross plataforma e pode ser testado tanto no navegador, desktop ou 
 - Código limpo
 
 ### Subindo seu código:
-Ao terminar, crie um repositório privado no GitHub (ou plataforma de git) de sua preferência e compartilhe o repositório com raphael.sauer@kindraindustria.com. 
+Ao terminar, crie um repositório privado no GitHub (ou plataforma de git de sua preferência) e compartilhe o repositório com raphael.sauer@kindraindustria.com. 
